@@ -47,3 +47,20 @@
     background-color: grey;
     height: 200px;
 }
+
+.jumbotron {
+    background-color: darkgrey;
+    font-size: 20px;
+    font-family: 'Lucida Sans Unicode';
+    margin-top: 10px;
+}
+
+.mybutton {
+    position: relative;
+    left: 45%;
+}
+
+.mybutton:hover {
+    background-color: rgb(8, 121, 8);
+    color: skyblue;
+}
